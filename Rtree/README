@@ -1,0 +1,2 @@
+Este projeto é um exemplo simples de implementação de uma árvore R, utilizando a linguage C++.
+Nesta implementação é ilustrado o processo mais básico de criação e alocação de páginas na árvore R, sem a otimização de buscar pela melhor página para alocar o dado na árvore.
