@@ -1,0 +1,78 @@
+﻿  stdafx.cpp
+  ConvolutionalLayer.cpp
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\ConvolutionalLayer.cpp(39,31): warning C4834: descartando o valor retornado da função com o atributo 'nodiscard'
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\ConvolutionalLayer.cpp(46,107): warning C4244: '=': conversão de '_Ty' para 'int', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\ConvolutionalLayer.cpp(50,30): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  Erro.cpp
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Erro.cpp(22,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Erro.cpp(23,21): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Erro.cpp(37,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Erro.cpp(38,21): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Erro.cpp(40,95): warning C4244: 'argumento': conversão de '_Ty' para 'float', possível perda de dados
+          with
+          [
+              _Ty=int
+          ]
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Erro.cpp(40,67): warning C4244: 'argumento': conversão de '_Ty' para 'float', possível perda de dados
+          with
+          [
+              _Ty=int
+          ]
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Erro.cpp(44,95): warning C4244: 'argumento': conversão de '_Ty' para 'float', possível perda de dados
+          with
+          [
+              _Ty=int
+          ]
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Erro.cpp(44,67): warning C4244: 'argumento': conversão de '_Ty' para 'float', possível perda de dados
+          with
+          [
+              _Ty=int
+          ]
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Erro.cpp(60,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Erro.cpp(65,21): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Erro.cpp(67,18): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Erro.cpp(82,21): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Erro.cpp(83,18): warning C4018: '<': incompatibilidade de signed/unsigned
+  Filtro.cpp
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Filtro.cpp(15,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Filtro.cpp(25,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Filtro.cpp(31,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  FullyConnectedLayer.cpp
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\FullyConnectedLayer.cpp(22,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\FullyConnectedLayer.cpp(33,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\FullyConnectedLayer.cpp(49,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\FullyConnectedLayer.cpp(81,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\FullyConnectedLayer.cpp(84,21): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\FullyConnectedLayer.cpp(97,21): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\FullyConnectedLayer.cpp(125,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Imagem.cpp
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\Imagem.cpp(13,34): warning C4244: 'argumento': conversão de '_Ty' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+  Neuronio.cpp
+  PoolingLayer.cpp
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\PoolingLayer.cpp(25,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\PoolingLayer.cpp(32,22): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\PoolingLayer.cpp(37,56): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\PoolingLayer.cpp(70,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\PoolingLayer.cpp(71,17): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\PoolingLayer.cpp(73,24): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\PoolingLayer.cpp(93,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\PoolingLayer.cpp(106,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\PoolingLayer.cpp(108,21): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\PoolingLayer.cpp(130,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Visual Studio 2019\Projects\RedeConvNet\RedeConvNet\PoolingLayer.cpp(132,21): warning C4018: '<': incompatibilidade de signed/unsigned
+  RedeConvNet.cpp
+  Treinamento.cpp
+  Gerando Código...
+  RedeConvNet.vcxproj -> D:\Visual Studio 2019\Projects\RedeConvNet\Debug\RedeConvNet.exe

@@ -1,0 +1,18 @@
+Treinamento da ConvNet
+Para reduzir a quantidade de informação sera treinado o filtro que busca 
+ o padrao de barra com inclinação para esquerada (Filtro BE).Padrão reconhecido 'X'
+Padrão reconhecido 'O'
+Padrao reconhecido BarraE
+Padrao reconhecido BarraD
+Treinamento da ConvNet
+Para reduzir a quantidade de informação sera treinado o filtro que busca 
+ o padrao de barra com inclinação para esquerada (Filtro BE).Padrão reconhecido 'X'
+Padrão reconhecido 'O'
+Padrao reconhecido BarraE
+Padrao reconhecido BarraD
+Treinamento da ConvNet
+Para reduzir a quantidade de informação sera treinado o filtro que busca 
+ o padrao de barra com inclinação para esquerada (Filtro BE).Padrão reconhecido 'X'
+Padrão reconhecido 'O'
+Padrao reconhecido BarraE
+Padrao reconhecido BarraD
